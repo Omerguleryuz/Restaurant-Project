@@ -2,9 +2,9 @@
 
 Hello,
 I made a restaurant chef project.
-There is only one type of meal that we can (at the moment) which is hamburger. The player grabs an uncooked burger, cooks it before it burns, then grabs the cooked patty and bun to serve a complete hamburger to the customer. 
-The game is played by only mouse clicks. Player clicks on the interactable parts of the kitchen such as counter, oven, customer window, etc.
-I did not enrich the project, just made a simple template. More can be added such as increasing the number of ingredients like tomatoes, curly, cheddar cheese, etc. Adding more ingredients would work as the same as 
+There is only one type of meal that we can (at the moment) which is hamburger. The player grabs an uncooked burger, cooks it before it burns, and then grabs the cooked patty and bun to serve a complete hamburger to the customer. 
+The game is played by only mouse clicks. The player clicks on the interactable parts of the kitchen such as the counter, oven, customer window, etc.
+I did not enrich the project, just made a simple template. More can be added such as increasing the number of ingredients like tomatoes, lettuce, cheddar cheese, etc. Adding more ingredients would work the same as 
 uncooked burger.
 There are no levels at the moment. 
 
